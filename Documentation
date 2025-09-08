@@ -1,0 +1,26 @@
+App desenvolvido com Next.js, Tailwind CSS e Shadcn UI.
+Este projeto é um painel administrativo moderno e responsivo que permite ao administrador gerenciar a atividade dos usuários de forma clara e eficiente.
+
+🔹 Funcionalidades principais
+
+Interface moderna e responsiva construída com Tailwind CSS + Shadcn UI.
+
+Dashboard interativo com cards informativos e gráficos (Recharts).
+
+Gerenciamento de usuários (visualização e administração das atividades).
+
+Estrutura escalável com componentes reutilizáveis.
+
+🔹 Tecnologias usadas
+
+Next.js
+ – framework React moderno com suporte a SSR/SSG.
+
+Tailwind CSS
+ – estilização rápida e responsiva.
+
+Shadcn UI
+ – biblioteca de componentes acessíveis e customizáveis.
+
+Recharts
+ – gráficos dinâmicos para visualização de dados
